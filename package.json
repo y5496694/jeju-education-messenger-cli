@@ -1,0 +1,16 @@
+{
+  "name": "jeju-education-messenger-cli",
+  "version": "0.2.0",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "jeju-education-messenger-cli": "narae.mjs"
+  },
+  "scripts": {
+    "test": "node --test tests.mjs tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.19"
+  },
+  "repository": "https://github.com/y5496694/jeju-education-messenger-cli"
+}
